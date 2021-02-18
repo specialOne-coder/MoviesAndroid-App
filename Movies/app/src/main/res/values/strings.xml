@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Movies</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Movies</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Accueil</string>
+    <string name="menu_gallery">Favoris</string>
+    <string name="menu_slideshow">Récents</string>
+    <string name="menu_tools">Partager</string>
+    <string name="partager">Partager l\'application Movies via le boutton partager pour inviter vos amis à en beneficier.</string>
+</resources>
